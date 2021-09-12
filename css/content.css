@@ -1,0 +1,5 @@
+.content_wrapper {
+    display: flex;
+    gap: 18px;
+    margin-bottom: 20px;
+}
